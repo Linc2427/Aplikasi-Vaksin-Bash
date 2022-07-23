@@ -1,2 +1,2 @@
 # Aplikasi Vaksin Surabaya
-Aplikasi pendaftaran vaksin menggunakan bash script
+Aplikasi pendaftaran vaksin menggunakan zenity
